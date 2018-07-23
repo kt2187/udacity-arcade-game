@@ -9,6 +9,7 @@ This is a basic arcade game made for the Udacity Google Nanodegree Scholarship P
 1. Clone the game from repo.
 2. Load index.html in browser.
 3. Play the game.
+4. You can also play the game on my GitHub Page (https://kt2187.github.io/udacity-arcade-game/).
 
 ## How to play:
 
